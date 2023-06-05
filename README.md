@@ -9,6 +9,18 @@ Please note that only the classification model has been built, trained and worki
 
 ![image](https://github.com/Niloth/CKDClassifier/assets/10112571/e163bc16-ca63-44b7-b8d9-3ad4b4f0cc70)
 
+# CKD High Level deployment
+
+![image](https://github.com/Niloth/CKDClassifier/assets/10112571/363b66fe-85c6-40c6-ac93-bac444645f4d)
+
+# Classification Model Pipeline
+
+![image](https://github.com/Niloth/CKDClassifier/assets/10112571/e4282d5c-4953-47b3-a7df-bff3687d8bb3)
+
+# Flow
+![image](https://github.com/Niloth/CKDClassifier/assets/10112571/69f3abc5-4075-486e-b015-d71afdb2c05d)
+
+
 # Dataset details
 
 ![image](https://github.com/Niloth/CKDClassifier/assets/10112571/b6b5f075-15fb-4ec1-b353-4affeade645b)
@@ -33,7 +45,7 @@ Please note that only the classification model has been built, trained and worki
 •	Visual Studio Editor for programming
 •	Google Chrome for web browsing
 •	Flask Framework for Python based application
-•	Python language
+•	Python language - Python 3.11.2 VERSION used by me
 -	Packages used for Backend development:
 •	from flask import Flask, render_template,request,jsonify,redirect,url_for
 •	# from jinja2 import escape
